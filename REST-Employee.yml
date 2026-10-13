@@ -1,6 +1,4 @@
 spring:
-  application:
-    name: REST-Employee
   datasource:
     url:  jdbc:postgresql://localhost:5432/bdPrueba
     username: postgres
